@@ -2,7 +2,7 @@
 <OX>
     <OXMENU id="oxac_modules_group">
         <MAINMENU id="oxac_adminsample_sample" rights="malladmin">
-             <SUBMENU id="oxac_adminsample_menu" cl="oxac_adminsample" rights="malladmin" disableForDemoShop="0" />
+             <SUBMENU id="oxac_adminsample_menu" cl="oxac_adminsample_main" rights="malladmin" disableForDemoShop="0" />
         </MAINMENU>
     </OXMENU>
 </OX>

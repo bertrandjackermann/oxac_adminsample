@@ -15,12 +15,12 @@
 
 
 
-class oxac_adminsample extends oxAdminView
+class oxac_adminsample_main extends oxAdminView
 {
     
 	
 	
-	protected $_sThisTemplate = 'oxac_adminsample.tpl';
+	protected $_sThisTemplate = 'oxac_adminsample_main.tpl';
     
 	
 	

@@ -16,7 +16,7 @@ $aModule = array(
 				'de'		=>	'Beispielerweiterung von OXID Academy',
 		),
 		'thumbnail'		=> '',
-		'version'		=> '0.0.1',
+		'version'		=> '0.0.2',
 		'author'		=> 'Johannes Ackermann',
 		'url'			=> 'http://www.oxid-esales.com',
 		'email' 		=> 'johannes.ackermann@oxid-esales.com',
