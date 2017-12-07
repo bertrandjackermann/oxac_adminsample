@@ -10,22 +10,15 @@
   ],
   "extra": {
     "oxideshop": {
-      "blacklist-filter": [
-        "documentation/**/*.*"
-      ],
       "target-directory": "oxac/oxac_adminsample"
     }
   },
   "require": {
-    "php": ">=5.6",
-    "lib-curl": ">=7.26.0",
-    "lib-openssl": ">=1.0.1",
-    "ext-curl": "*",
-    "ext-openssl": "*"
+    "php": ">=5.6"
   },
   "autoload": {
     "psr-4": {
-      "OxidEsales\\OxidAcademy\\": "../../../source/modules/oxac/oxac_adminsample"
+      "OxidEsales\\OxidAcademy\\AdminSample\\": "../../../source/modules/oxac/oxac_adminsample"
     }
   }
 }
