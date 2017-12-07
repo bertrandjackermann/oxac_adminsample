@@ -13,17 +13,12 @@
  *
  */
 
+namespace OxidEsales\OxidAcademy\AdminSample\Controller;
 
-
-class oxac_adminsample_main extends oxAdminView
-{
-    
-	
+class AdminSample_Main extends oxAdminView {
 	
 	protected $_sThisTemplate = 'oxac_adminsample_main.tpl';
-    
-	
-	
+
     /**
      * Render. Puts 
      *

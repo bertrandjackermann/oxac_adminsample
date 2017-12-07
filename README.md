@@ -20,6 +20,6 @@ Extends the shop admin with an additional menu.
 
 #Compatibility:
 
- * Requires OXID eShop CE/PE 4.9 / EE 5.2
+ * Requires OXID eShop CE/PE/EE 6.0
  * PHP 5.3 or higher
  
