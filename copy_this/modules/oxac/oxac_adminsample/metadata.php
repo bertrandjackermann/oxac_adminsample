@@ -25,7 +25,7 @@ $aModule = [
     'email'         => 'johannes.ackermann@oxid-esales.com',
     'controllers'   => [
         // Admin view controller
-        'oxac_adminsample_main'     =>  OxidEsales\OxidAcademy\AdminSample\Controller\admin\AdminSample_Main::class,
+        'oxac_adminsample_main'     =>  OxidEsales\OxidAcademy\AdminSampleModule\Controller\admin\AdminSample_Main::class,
     ],
     'templates'		=> [
         // Admin view

@@ -9,7 +9,7 @@
  *
  */
 
-namespace OxidEsales\OxidAcademy\AdminSample\Controller\admin;
+namespace OxidEsales\OxidAcademy\AdminSampleModule\Controller\admin;
 
 class AdminSample_Main extends oxAdminView {
 	

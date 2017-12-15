@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "OxidEsales\\OxidAcademy\\AdminSample\\": "../../../source/modules/oxac/oxac_adminsample"
+      "OxidEsales\\OxidAcademy\\AdminSampleModule\\": "../../../source/modules/oxac/oxac_adminsample"
     }
   }
 }
