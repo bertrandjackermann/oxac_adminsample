@@ -21,5 +21,5 @@ Extends the shop admin with an additional menu.
 #Compatibility:
 
  * Requires OXID eShop CE/PE/EE 6.0
- * PHP 5.3 or higher
+ * PHP 5.6 oder 7.0
  
