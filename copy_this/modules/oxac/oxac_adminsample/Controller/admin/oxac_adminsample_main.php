@@ -1,29 +1,20 @@
 <?php
 
 /**
- * 
- * @author johannes ackermann
- * Widget business logic. Sends current date and time to template.
- * 
  * This is an extension of oxAdminView. oxAdminView should be used for view controllers in
  * the shop admin.
  * 
- * 15/12/1
- * v0.0.1
+ * 15/12/1-17/12/7
+ * v1.0.0
  *
  */
 
+namespace OxidEsales\OxidAcademy\AdminSampleModule\Controller\admin;
 
-
-class oxac_adminsample_main extends oxAdminView
-{
-    
-	
+class AdminSample_Main extends oxAdminView {
 	
 	protected $_sThisTemplate = 'oxac_adminsample_main.tpl';
-    
-	
-	
+
     /**
      * Render. Puts 
      *

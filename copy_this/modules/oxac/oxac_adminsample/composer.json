@@ -1,0 +1,25 @@
+{
+  "name": "oxid-academy/adminsample",
+  "description": "Sample admin module",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "modules", "eShop"],
+  "homepage": "https://www.oxid-esales.com/oxid-welt/academy/schulungen/",
+  "license": [
+    "GPL-3.0",
+    "proprietary"
+  ],
+  "extra": {
+    "oxideshop": {
+      "target-directory": "oxac/oxac_adminsample"
+    }
+  },
+  "version":  "1.0.0",
+  "require": {
+    "php":  ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "OxidEsales\\OxidAcademy\\AdminSampleModule\\": "../../../source/modules/oxac/oxac_adminsample"
+    }
+  }
+}
